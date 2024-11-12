@@ -47,4 +47,4 @@ income_vacancy %>%
   )
 ```
 
-then check github actions.
+
